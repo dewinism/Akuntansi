@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Blog Akuntansi
 
 You can use the [editor on GitHub](https://github.com/dewinism/Akuntansi/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
